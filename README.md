@@ -1,6 +1,4 @@
 # DPA-VAE
-Repository for DPA-VAE internship + thesis.
+Repository for DPA-VAE internship + thesis under the supervision of @alexdepremia, @ansuini and @AlbertoCazzaniga.
 
-## To do
-- provare a inserire prior non isotropica
-- fare un GMVAE
+[https://github.com/users/alessimichele/projects/1](https://github.com/users/alessimichele/projects/1)
